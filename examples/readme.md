@@ -13,26 +13,44 @@ Please note that Code To Cloud prefers the horizontal form of our logo to the st
     <tr>
         <th></th>
         <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
     </tr>
     <tr>
         <th></th>
-        <th>horizontal</th>
-        <th>horizontal</th>
-        <th>horizontal</th>
+        <th>Code To Cloud</th>
+        <th>Skybound Summit</th>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/examples/images/code_to_cloud_black_logo.png" width="200"></td>
-        <td><img src="/examples/images/code_to_cloud_black_logo.svg" width="200"></td>
         <td><img src="/examples/images/skybound_black_logo.png" width="200"></td>
-        <td><img src="/examples/images/skybound_black_logo.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/examples/images/code_to_cloud_white_logo.png" width="200"></td>
-        <td><img src="/examples/images/code_to_cloud_white_logo.svg" width="200"></td>
         <td><img src="/examples/images/skybound_white_logo.png" width="200"></td>
+    </tr>
+</table>
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>Code To Cloud</th>
+        <th>Skybound Summit</th>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/examples/images/code_to_cloud_black_logo.svg" width="200"></td>
+        <td><img src="/examples/images/skybound_black_logo.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/examples/images/code_to_cloud_white_logo.svg" width="200"></td>
         <td><img src="/examples/images/skybound_white_logo.svg" width="200"></td>
     </tr>
 </table>
