@@ -58,7 +58,9 @@ To copy the logo of your choice, simply right-click on it in most browsers. Whil
         <td><img src="/examples/images/skybound_white_logo.svg" width="200"></td>
     </tr>
 </table>
+
 #### Code To Cloud Desktop Wallpapers
+
 <table>
     <tr>
     	<th colspan="7"></th>
