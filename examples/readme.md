@@ -19,6 +19,7 @@ Please note that Code To Cloud prefers the horizontal form of our logo to the st
         <th></th>
         <th>horizontal</th>
         <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>black</th>
