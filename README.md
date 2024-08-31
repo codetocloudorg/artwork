@@ -1,5 +1,4 @@
-# artwork
-## 🎨 Code To Cloud -related logos and artwork
+# 🎨 Code To Cloud related logos and artwork
 Please note that Code To Cloud prefers the horizontal form of our logo to the stacked version when feasible.
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
