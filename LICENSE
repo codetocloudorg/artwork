@@ -1,31 +1,77 @@
-License for Code to Cloud Artwork, Logos, and Graphics
+# License for Code to Cloud Artwork, Logos, and Graphics
 
-This License Agreement (“Agreement”) is entered into between Code to Cloud Inc. (“Licensor”) and any individual or entity (“Licensee”) who downloads, uses, or accesses any artwork, logos, graphics, or other intellectual property (“Assets”) from the Code to Cloud GitHub repository (“Repository”).
+This License Agreement (“Agreement”) is entered into between **Code to Cloud Inc.** (“Licensor”) and any individual or entity (“Licensee”) who downloads, uses, or accesses any artwork, logos, graphics, or other intellectual property (“Assets”) from the Code to Cloud GitHub repository (“Repository”).
 
-1. Grant of License
-Licensor grants Licensee a non-exclusive, non-transferable, and revocable license to use the Assets solely for marketing purposes directly related to the promotion of Code to Cloud Inc. and its services. Any other use of the Assets is strictly prohibited unless explicitly authorized by Licensor in writing.
+---
 
-2. Ownership and Copyright
-All Assets provided in the Repository are the exclusive property of Licensor and are protected under copyright law. Licensee acknowledges that Licensor retains all rights, title, and interest in and to the Assets, including all intellectual property rights.
+## 1. Grant of License
+Licensor grants Licensee a limited, non-exclusive, non-transferable, and revocable license to use the Assets solely for **non-commercial purposes** or **marketing purposes directly related to the promotion of Code to Cloud Inc. and its services**. Any other use of the Assets, including but not limited to commercial use, is strictly prohibited unless explicitly authorized by Licensor in writing.
 
-3. Restrictions
+---
+
+## 2. Ownership and Copyright
+All Assets provided in the Repository are the exclusive property of Licensor and are protected under applicable copyright, trademark, and intellectual property laws. Licensee acknowledges that:
+- Licensor retains all rights, title, and interest in and to the Assets, including all intellectual property rights.
+- No ownership rights are transferred to Licensee under this Agreement.
+
+---
+
+## 3. Restrictions
 Licensee shall not:
+- Modify, alter, adapt, or create derivative works based on the Assets without prior written consent from Licensor.
+- Use the Assets in any way that infringes upon the rights of Licensor or any third party.
+- Use the Assets in any manner that suggests endorsement, sponsorship, or affiliation with Licensor without prior written consent.
+- Distribute, sell, sublicense, or make the Assets available to any third party, except as part of approved marketing materials directly related to Code to Cloud Inc.
+- Use the Assets in any manner that violates applicable laws or regulations.
 
-	•	Modify, alter, or create derivative works based on the Assets without prior written consent from Licensor.
-	•	Use the Assets in any way that may infringe upon the rights of Licensor or any third party.
-	•	Use the Assets in any manner that suggests an endorsement by or affiliation with Licensor without prior written consent.
-	•	Distribute, sell, or make the Assets available to any third party except as part of approved marketing materials.
+---
 
-4. Termination
-Licensor reserves the right to terminate this Agreement and the license granted herein at any time if Licensee violates any terms of this Agreement. Upon termination, Licensee must immediately cease all use of the Assets and destroy any copies in their possession.
+## 4. Attribution
+When using the Assets, Licensee must provide proper attribution to Code to Cloud Inc., unless otherwise authorized in writing by Licensor. Attribution must include:
+- The name "Code to Cloud Inc."
+- A link to the official website or repository, where applicable.
 
-5. Liability
-Licensor shall not be liable for any damages, whether direct, indirect, incidental, or consequential, arising from the use or inability to use the Assets, even if Licensor has been advised of the possibility of such damages.
+---
 
-6. Governing Law
-This Agreement shall be governed by and construed in accordance with the laws of Alberta, Canada, without regard to its conflict of laws principles.
+## 5. Termination
+Licensor reserves the right to terminate this Agreement and the license granted herein at any time if Licensee violates any terms of this Agreement. Upon termination:
+- Licensee must immediately cease all use of the Assets.
+- Licensee must destroy any copies of the Assets in their possession, whether in physical or digital form.
+- Licensor reserves the right to pursue legal remedies for any unauthorized use of the Assets.
 
-7. Entire Agreement
-This Agreement constitutes the entire agreement between the parties regarding the use of the Assets and supersedes all prior agreements and understandings, whether written or oral, related to the subject matter hereof.
+---
 
-By downloading or using any Assets from the Repository, Licensee agrees to be bound by the terms of this Agreement.
+## 6. Disclaimer of Warranties
+The Assets are provided "AS IS" without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Licensor does not guarantee that the Assets will meet Licensee’s requirements or that their use will be uninterrupted or error-free.
+
+---
+
+## 7. Limitation of Liability
+To the maximum extent permitted by law, Licensor shall not be liable for any damages, whether direct, indirect, incidental, consequential, or punitive, arising from the use or inability to use the Assets, even if Licensor has been advised of the possibility of such damages.
+
+---
+
+## 8. Indemnification
+Licensee agrees to indemnify, defend, and hold harmless Licensor, its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising out of or in connection with:
+- Licensee’s use of the Assets.
+- Licensee’s violation of this Agreement.
+- Any unauthorized use of the Assets by a third party to whom Licensee provided access.
+
+---
+
+## 9. Governing Law and Jurisdiction
+This Agreement shall be governed by and construed in accordance with the laws of **Alberta, Canada**, without regard to its conflict of laws principles. Any disputes arising under this Agreement shall be resolved exclusively in the courts located in Alberta, Canada.
+
+---
+
+## 10. Entire Agreement
+This Agreement constitutes the entire agreement between the parties regarding the use of the Assets and supersedes all prior agreements, understandings, or representations, whether written or oral, related to the subject matter hereof.
+
+---
+
+## 11. Acceptance of Terms
+By downloading, using, or accessing any Assets from the Repository, Licensee acknowledges that they have read, understood, and agree to be bound by the terms of this Agreement. If Licensee does not agree to these terms, they must not use the Assets.
+
+---
+
+**© Code to Cloud Inc. All rights reserved.**
