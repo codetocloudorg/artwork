@@ -40,6 +40,11 @@ For full details, please review the [LICENSE](./LICENSE) file.
         <td><img src="/examples/images/current/code_to_cloud_black_logo.png" alt="Code To Cloud Black Logo" width="200"></td>
         <td><img src="/examples/images/current/code_to_cloud_black_transparent_logo.png" alt="Code To Cloud Black Transparent Logo" width="200"></td>
     </tr>
+    <tr>
+        <th>Black with Text</th>
+        <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text.png" alt="Code To Cloud Black Logo with Text" width="200"></td>
+        <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text_transparent.png" alt="Code To Cloud Black Logo with Text (Transparent)" width="200"></td>
+    </tr>
 </table>
 
 ### SVG Logos
@@ -52,6 +57,11 @@ For full details, please review the [LICENSE](./LICENSE) file.
         <th>Black (SVG)</th>
         <td><img src="/examples/images/current/code_to_cloud_black_logo.svg" alt="Code To Cloud Black Logo (SVG)" width="200"></td>
         <td><img src="/examples/images/current/code_to_cloud_black_transparent_logo.svg" alt="Code To Cloud Black Transparent Logo (SVG)" width="200"></td>
+    </tr>
+    <tr>
+        <th>Black with Text (SVG)</th>
+        <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text.svg" alt="Code To Cloud Black Logo with Text (SVG)" width="200"></td>
+        <td><img src="/examples/images/current/code_to_cloud_logo_1920x1080_with_text_transparent.svg" alt="Code To Cloud Logo with Text (Transparent SVG)" width="200"></td>
     </tr>
 </table>
 
