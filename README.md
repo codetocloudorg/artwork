@@ -14,16 +14,105 @@ While PNG files are widely used, we recommend **SVG** files whenever possible. S
 
 ---
 
-## Terms of Use
+## ⚖️ Legal Terms and Licensing
 
-All usage of the artwork, logos, and graphics in this repository is subject to the terms outlined in the [LICENSE](./LICENSE) file. By downloading or using any assets from this repository, you agree to comply with the terms and conditions specified in the license.
+**IMPORTANT LEGAL NOTICE**: All artwork, logos, and graphics in this repository are protected intellectual property of Code To Cloud Inc. Usage is governed by our comprehensive [LICENSE AGREEMENT](./LICENSE).
 
-Key points include:
-- **Non-commercial Use**: Assets may only be used for non-commercial purposes unless explicitly authorized.
-- **Attribution**: Proper attribution to Code To Cloud Inc. is required.
-- **Prohibited Actions**: Modifying, redistributing, or using the assets in a way that violates the license is strictly prohibited.
+### 🔒 **Key Legal Requirements:**
 
-For full details, please review the [LICENSE](./LICENSE) file.
+- **✅ PERMITTED**: Non-commercial use, educational purposes, approved promotional materials
+- **❌ PROHIBITED**: Commercial use, modifications, redistribution, competing products
+- **📝 REQUIRED**: Proper attribution to "Code To Cloud Inc." in all uses
+- **⚠️ ENFORCEMENT**: Violations may result in immediate legal action
+
+### 🚨 **Trademark Protection Notice**
+"Code To Cloud" and associated logos are registered trademarks of Code To Cloud Inc. Unauthorized use constitutes trademark infringement under Canadian and international law.
+
+### 📋 **Before Using These Assets:**
+1. **READ** the complete [LICENSE](./LICENSE) file
+2. **VERIFY** your intended use is authorized  
+3. **CONTACT** legal@codetocloud.com for commercial licensing
+4. **REPORT** unauthorized use via [GitHub Issues](https://github.com/codetocloudorg/artwork/issues)
+
+**By downloading any asset, you agree to be legally bound by our license terms.**
+
+---
+
+## Brand Guidelines
+
+### Logo Usage Guidelines
+- **Minimum Size**: Logos should not be displayed smaller than 32px in height for digital use or 0.5 inches for print
+- **Clear Space**: Maintain clear space around the logo equal to the height of the logo on all sides
+- **Background Colors**: 
+  - Use black logos on light backgrounds (white, light gray, light colors)
+  - Use transparent logos on dark or colored backgrounds
+- **Prohibited Actions**: Do not stretch, rotate, or modify the logo proportions
+
+### Color Specifications
+- **Primary Black**: #000000 (RGB: 0,0,0) (CMYK: 0,0,0,100)
+- **Background recommendations**: White (#FFFFFF), Light Gray (#F5F5F5), or transparent
+
+### Use Cases
+- **Presentations**: Use SVG format for scalability
+- **Web/Digital**: PNG or SVG, minimum 200px width recommended
+- **Print Materials**: SVG preferred, ensure 300+ DPI for PNG
+- **Social Media**: Use appropriate sizing for each platform
+- **Merchandise**: Contact for approval and high-resolution files
+
+---
+
+## Enhanced Usage Guidelines
+
+### When to Use Each Logo Variant
+
+#### Standard Logos (No Text)
+- **Black Logo**: Use on white or very light backgrounds
+- **Transparent Logo**: Use on dark, colored, or photo backgrounds
+- **Best for**: Icons, favicons, watermarks, compact spaces
+
+#### Logos with Text
+- **Black with Text**: Primary choice for most applications
+- **Transparent with Text**: Use on dark or complex backgrounds  
+- **Best for**: Headers, presentations, official documents, main branding
+
+### Recommended Sizes by Context
+| Use Case | Format | Minimum Size | Recommended Size |
+|----------|--------|-------------|------------------|
+| Website Header | SVG/PNG | 150px width | 200-300px width |
+| Email Signature | PNG | 100px width | 150px width |
+| Social Media Profile | PNG | 400x400px | 800x800px |
+| Business Card | SVG/PNG | 1 inch width | 1.5 inch width |
+| Presentation | SVG | 200px width | 300-500px width |
+| Favicon | PNG | 32x32px | 64x64px |
+
+---
+
+## Download Packages
+
+### Quick Downloads
+For your convenience, we provide organized download packages:
+
+📦 **All Current Logos** - [Download ZIP](./downloads/code_to_cloud_current_logos.zip) *(72KB)*
+- All PNG and SVG variations
+- Multiple sizes included
+- Organized by format
+
+📦 **Print Ready Package** - [Download ZIP](./downloads/code_to_cloud_print_ready.zip) *(56KB)*
+- High-resolution PNG files
+- SVG files for vector printing
+- Scalable formats for professional use
+
+📦 **Web Ready Package** - [Download ZIP](./downloads/code_to_cloud_web_ready.zip) *(60KB)*
+- Optimized PNG and SVG files
+- Perfect for web applications
+- Logo variants without desktop wallpapers
+
+📦 **Desktop Wallpapers** - [Download ZIP](./downloads/code_to_cloud_wallpapers.zip) *(137KB)*
+- All available resolutions (1920x1080, 2560×1440, 3840×2160)
+- Current and legacy wallpaper designs
+- Multiple format options
+
+*All download packages are ready for immediate use. Individual files can also be accessed directly from the repository.*
 
 ---
 
@@ -153,8 +242,51 @@ For full details, please review the [LICENSE](./LICENSE) file.
 
 ---
 
+## Contributor Guidelines
+
+### Requesting New Logo Variations
+If you need a specific logo variation or format that's not currently available:
+
+1. **Check Existing Assets**: Review all current and legacy assets first
+2. **Open an Issue**: Create a [GitHub Issue](https://github.com/codetocloudorg/artwork/issues) with:
+   - Specific use case description
+   - Required format (PNG, SVG, etc.)
+   - Desired dimensions or specifications
+   - Background color requirements
+3. **Provide Context**: Explain how the asset will be used (presentation, web, print, etc.)
+
+### Asset Submission Standards
+For contributors submitting new artwork:
+
+#### Technical Requirements
+- **SVG Files**: Must be scalable vector format, properly optimized
+- **PNG Files**: Minimum 512x512px, transparent background when applicable
+- **File Naming**: Follow existing naming convention: `code_to_cloud_[variation]_[size/description].[extension]`
+- **Quality**: Professional-grade artwork only, consistent with brand standards
+
+#### Submission Process
+1. **Fork the Repository**: Create your own fork of the artwork repo
+2. **Create Feature Branch**: Use descriptive branch names (e.g., `feature/new-icon-variation`)
+3. **Add Assets**: Place files in appropriate directories (`current/` for new assets)
+4. **Update Documentation**: Add new assets to this README following existing format
+5. **Submit Pull Request**: Include detailed description of changes and use cases
+
+#### Quality Standards
+- **Brand Consistency**: Must align with existing Code To Cloud brand guidelines
+- **Professional Quality**: Clean, crisp, and production-ready
+- **Multiple Formats**: Provide both PNG and SVG when possible
+- **Optimization**: Files should be optimized for web use without quality loss
+
+### Review Process
+- All submissions will be reviewed by the Code To Cloud team
+- Feedback may be provided for revisions
+- Approved assets will be merged and added to download packages
+- Contributors will be credited in release notes
+
+---
+
 ## Licensing and Copyright
 
 All logos and artwork in this repository are subject to **trademark and copyright laws**. Use of these assets must comply with the terms outlined in the [LICENSE](./LICENSE) file.
 
-**© Code To Cloud Inc. All rights reserved.**
+**© 2026 Code To Cloud Inc. All rights reserved.**
