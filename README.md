@@ -42,8 +42,8 @@ For full details, please review the [LICENSE](./LICENSE) file.
     </tr>
     <tr>
         <th>Black with Text</th>
-        <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text_transparent.png" alt="Code To Cloud Black Logo with Text (Transparent)" width="200"></td>
         <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text.png" alt="Code To Cloud Black Logo with Text" width="200"></td>
+        <td><img src="/examples/images/current/code_to_cloud_logo_black_1920x1080_with_text_transparent.png" alt="Code To Cloud Black Logo with Text (Transparent)" width="200"></td>
     </tr>
 </table>
 
